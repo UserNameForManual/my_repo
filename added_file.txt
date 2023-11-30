@@ -1,1 +1,6 @@
+local change
+
 pull test
+
+local change
+local change
