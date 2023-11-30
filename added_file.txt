@@ -4,3 +4,7 @@ pull test
 
 local change
 local change
+non local change
+non local change
+
+non local change
